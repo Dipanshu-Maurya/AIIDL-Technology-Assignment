@@ -106,11 +106,11 @@ Tools Used - Chatgpt, claude
 
 ### Home Page — Desktop View
 
-![Home Page Desktop Screenshot](./screenshots/home-desktop.png)
+![Home Page Desktop Screenshot](./Frontend/screenshots/home-desktop.png)
 
 ### Home Page — Mobile View
 
-![Home Page Mobile Screenshot](./screenshots/home-mobile.png)
+![Home Page Mobile Screenshot](./Frontend/screenshots/home-mobile.png)
 
 ## 9.Time Spent
 
